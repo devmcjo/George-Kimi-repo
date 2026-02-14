@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.cache

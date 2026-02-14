@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Configuration (contains API key)
+appsettings.json
+
+# Temporary files
+*.tmp
+*.cache
