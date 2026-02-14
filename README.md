@@ -71,7 +71,7 @@ Kimi-repo/
 
 - Windows 10/11
 - .NET 6.0 SDK 이상
-- **Visual Studio 2022** (권장) 또는 **Visual Studio Code**
+- **Visual Studio 2026** (권장) 또는 **Visual Studio Code**
 
 ### 개발 환경 (IDE)
 
@@ -79,7 +79,7 @@ Kimi-repo/
 
 | IDE | 버전 | 권장 사용처 |
 |-----|------|------------|
-| **Visual Studio** | 2022 | Windows 데스크톱 앱, C++, C#, MFC, WPF 개발 |
+| **Visual Studio** | 2026 | Windows 데스크톱 앱, C++, C#, MFC, WPF 개발 |
 | **Visual Studio Code** | 최신 | 경량 프로젝트, Python, 설정 편집 |
 
 > **정책**: 죠지는 위 두 IDE 외에는 사용하지 않습니다.
